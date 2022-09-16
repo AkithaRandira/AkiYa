@@ -191,7 +191,7 @@ ol{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('/images/banner1.webp');
+    background: url('images/banner1.webp');
     background-size: cover;
     height: 800px;
     width: 100%;
