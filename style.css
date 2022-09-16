@@ -191,7 +191,7 @@ ol{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('./images/banner1.webp');
+    background: url('/images/banner1.webp');
     background-size: cover;
     height: 800px;
     width: 100%;
@@ -403,7 +403,7 @@ margin-bottom:5px;
    /*----------------------------TEA PLANTATION------------------------------*/
    
    main .site-title-plantation{
-    background: url('../images/g2.jpg');
+    background: url('/images/g2.jpg');
     background-size: cover;
     height: 800px;
     width: 100%;
@@ -539,7 +539,7 @@ td button {
   /*-----------------------------TEA MUSEUM----------------------------------*/
 
   main .site-title-museum{
-    background: url('../images/taem.webp ');
+    background: url('/images/taem.webp ');
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -692,7 +692,7 @@ main .site-title .site-background-museum{
 /*-----------------------------PRODUCTS----------------------------------*/
 
 main .site-title-products{
-    background: url('../images/teapro3.webp');
+    background: url('/images/teapro3.webp');
     background-size: cover;
     height: 80vh;
     display: flex;
@@ -1018,7 +1018,7 @@ section p{
 /*-------------------------------------Donation-------------------------------------------------*/
 
 main .site-title-donation{
-    background: url('../images/donateus.jpg');
+    background: url('/images/donateus.jpg');
     background-size: cover;
     height: 110vh;
     display: flex;
