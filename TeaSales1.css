@@ -3,7 +3,7 @@
 /* Utility stylings */
 
 main .site-title-sales{
-    background: url('../images/110.jpg');
+    background: url('/images/110.jpg');
     background-size: cover;
     height: 80vh;
     display: flex;
